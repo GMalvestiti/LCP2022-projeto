@@ -5,4 +5,3 @@ Nomes:<br>
     Guilherme Henrique Jardim<br>
     Gustavo Silva Malvestiti<br>
     Lucas Henrique Sachetto<br>
->>>>>>> master
