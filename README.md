@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Todos os arquivos na branch master.
-=======
 # Projeto LCP 2022
 
 Nomes:<br>
